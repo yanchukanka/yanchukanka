@@ -39,5 +39,5 @@ Python
 
 
 ### How to reach me
-
-
+telegram: @yanchukanka ·
+e-mail: yanchukanka@gmail.com
