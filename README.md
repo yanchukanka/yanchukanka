@@ -2,7 +2,7 @@
 #### Я начинающий тестировщик (junior QA) из Тбилиси, Грузия.
 
 ### Мое резюме
-![Header](https://docs.google.com/document/d/1gIGALt9zfLahswHB4AAGPmjYUscjd3G548x9ZNSxSao/edit?usp=sharing)
+![Что я умею](https://docs.google.com/document/d/1gIGALt9zfLahswHB4AAGPmjYUscjd3G548x9ZNSxSao/edit?usp=sharing)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
