@@ -25,6 +25,7 @@ Confluence ·
 Swagger ·
 OpenAPI ·
 Github ·
+PyCharm
 
 ### 🐍 Languages
 Python
