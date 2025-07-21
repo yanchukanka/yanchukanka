@@ -1,4 +1,4 @@
-# Hi there 👋, i'm Anya!
+# Hi there 👋, I'm Anya!
 #### I'm junior QA from Tbilisi, Georgia.
 
 ### My CV
@@ -29,17 +29,22 @@ Github ·
 🐍Python
 
 ### Testing documentation
-1️⃣ [Check-lists](https://github.com/yanchukanka/check-lists)  
+1️⃣ Check-lists [read](https://github.com/yanchukanka/check-lists)  
 2️⃣ Test-suits and test-cases:  
  - [Test-suits in QASE](https://app.qase.io/project/TEST?suite=1)  
  - [Test-cases for API](https://docs.google.com/spreadsheets/d/1OHv67l4nuOtl7viPgMwYgsh8qRRuDVWTnDy6M4cMHJI/edit?gid=0#gid=0)  
   
-3️⃣ [Bug-reports]()  
-4️⃣ [Postman Collections]()  
-5️⃣ [Use-cases, Mind-maps, State Transitions, ets.]()  
+3️⃣ Bug-reports [read]()  
+4️⃣ Postman Collections:  
+
+- [Oort Depot - космический склад и логистика](https://web.postman.co/workspace/My-Workspace~9d8d4913-da0e-441a-8d0f-dff554a3e635/collection/36647287-16f4aa1c-a816-484f-9a80-fa3451ada498?action=share&source=copy-link&creator=36647287)  
+- [Pet Store](https://web.postman.co/workspace/My-Workspace~9d8d4913-da0e-441a-8d0f-dff554a3e635/collection/36647287-c25aa8cd-e866-4865-ae6a-4fdcd467d589?action=share&source=copy-link&creator=36647287)  
+- [Vikunja API](https://web.postman.co/workspace/My-Workspace~9d8d4913-da0e-441a-8d0f-dff554a3e635/collection/36647287-e3f20f3b-4a29-4038-9e88-e786d32479a8?action=share&source=copy-link&creator=36647287)  
+
+5️⃣ Use-cases, Mind-maps, State Transitions, ets. [read]()  
 
 
 ### How to reach me
-telegram: @yanchukanka  
+telegram: https://t.me/yanchukanka  
 e-mail: yanchukanka@gmail.com  
 whatsapp: + 7 950 425-58-18
