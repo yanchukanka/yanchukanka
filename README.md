@@ -1,6 +1,9 @@
 # Привет 👋, меня зовут Anya!
 #### Я начинающий тестировщик (junior QA) из Тбилиси, Грузия.
 
+### Мое резюме
+Тут[https://docs.google.com/document/d/1gIGALt9zfLahswHB4AAGPmjYUscjd3G548x9ZNSxSao/edit?usp=sharing] можно посмотреть, что я умею
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
