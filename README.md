@@ -41,4 +41,4 @@ Github ·
 ### How to reach me
 telegram: @yanchukanka  
 e-mail: yanchukanka@gmail.com  
-whatsapp: + 7 950 4255818
+whatsapp: + 7 950 425-58-18
