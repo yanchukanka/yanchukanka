@@ -4,7 +4,7 @@
 ### My CV
 🔭![CV](https://docs.google.com/document/d/1gIGALt9zfLahswHB4AAGPmjYUscjd3G548x9ZNSxSao/edit?usp=sharing)
 
-### Tools and Technologies
+### Technologies and Tools
 REST API ·
 HTTP ·
 SQL ·
@@ -20,7 +20,10 @@ Git Bash ·
 Bash Linux ·
 Ситечко ·
 Selenium (начальный уровень) ·
-Confluence
+Confluence ·
+Swagger ·
+OpenAPI·
+Github ·
 
 ### Languages
 Python
@@ -29,13 +32,8 @@ Python
 ⚡ [Check-lists](https://github.com/yanchukanka/check-lists)  
 ⚡ [Test-suits and test-cases](https://github.com/yanchukanka/test-suites-and-cases)  
 ⚡ [Bug-reports]()  
-⚡ [Mind-maps]()  
-⚡ [SQL Queries]()  
-⚡ [Postman Collections]()  
-⚡ [Test kits]()  
-⚡ [State Transitions]()  
-⚡ [Use-cases]()  
-
+⚡ [Postman Collections]()
+⚡ [Use-cases, Mind-maps, State Transitions, ets.]()
 
 
 ### How to reach me
