@@ -2,7 +2,8 @@
 #### I'm junior QA from Tbilisi, Georgia.
 
 ### My CV
-[Read CV](https://docs.google.com/document/d/1gIGALt9zfLahswHB4AAGPmjYUscjd3G548x9ZNSxSao/edit?usp=sharing)
+[Read in Russian](https://docs.google.com/document/d/1gIGALt9zfLahswHB4AAGPmjYUscjd3G548x9ZNSxSao/edit?usp=sharing)
+[Read in English]()
 
 ### Technologies and Tools
 REST API ·
@@ -18,7 +19,7 @@ Devtools (Network, Application, Elements) ·
 Git ·
 Git Bash ·
 Bash Linux ·
-Ситечко ·
+Sitechco ·
 Selenium (beginner) ·
 Confluence ·
 Swagger ·
