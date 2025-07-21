@@ -1,5 +1,5 @@
 # Привет 👋, меня зовут Anya!
-## Я начинающий тестировщик (junior QA) из Тбилиси, Грузия.
+#### Я начинающий тестировщик (junior QA) из Тбилиси, Грузия.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
