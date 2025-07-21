@@ -4,26 +4,23 @@
 ### My CV
 🔭![CV](https://docs.google.com/document/d/1gIGALt9zfLahswHB4AAGPmjYUscjd3G548x9ZNSxSao/edit?usp=sharing)
 
-### Technologies
+### Tools and Technologies
 REST API ·
 HTTP ·
 SQL ·
-Scrum ·
-
-
-### Tools
-My SQL
-QASE
-Jira
-Redmine
-Mantis
-Postman
-Devtools
-Git
-Git Bash
-Bash Linux
-Selenium (начальный уровень)
-Ситечко
+My SQL ·
+QASE ·
+Jira ·
+Redmine ·
+Mantis ·
+Postman ·
+Devtools (Network, Application, Elements) ·
+Git ·
+Git Bash ·
+Bash Linux ·
+Ситечко ·
+Selenium (начальный уровень) ·
+Confluence
 
 ### Languages
 Python
