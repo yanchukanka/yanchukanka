@@ -2,7 +2,7 @@
 #### I'm junior QA from Tbilisi, Georgia.
 
 ### My CV
-🔭![CV](https://docs.google.com/document/d/1gIGALt9zfLahswHB4AAGPmjYUscjd3G548x9ZNSxSao/edit?usp=sharing)
+CV(https://docs.google.com/document/d/1gIGALt9zfLahswHB4AAGPmjYUscjd3G548x9ZNSxSao/edit?usp=sharing)
 
 ### Technologies and Tools
 REST API ·
