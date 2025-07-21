@@ -33,7 +33,7 @@ Github ·
 2️⃣ Test-suits and test-cases:  
  - [Tast-suits in QASE](https://app.qase.io/project/TEST?suite=1)  
  - [Test-cases for API](https://docs.google.com/spreadsheets/d/1OHv67l4nuOtl7viPgMwYgsh8qRRuDVWTnDy6M4cMHJI/edit?gid=0#gid=0)  
- - 3️⃣ [Bug-reports]()  
+3️⃣ [Bug-reports]()  
 4️⃣ [Postman Collections]()  
 5️⃣ [Use-cases, Mind-maps, State Transitions, ets.]()  
 
