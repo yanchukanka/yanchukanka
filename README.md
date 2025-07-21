@@ -19,7 +19,7 @@ Git ·
 Git Bash ·
 Bash Linux ·
 Ситечко ·
-Selenium (начальный уровень) ·
+Selenium (beginner) ·
 Confluence ·
 Swagger ·
 OpenAPI ·
@@ -41,7 +41,7 @@ Github ·
 - [Pet Store](https://web.postman.co/workspace/My-Workspace~9d8d4913-da0e-441a-8d0f-dff554a3e635/collection/36647287-c25aa8cd-e866-4865-ae6a-4fdcd467d589?action=share&source=copy-link&creator=36647287)  
 - [Vikunja API](https://web.postman.co/workspace/My-Workspace~9d8d4913-da0e-441a-8d0f-dff554a3e635/collection/36647287-e3f20f3b-4a29-4038-9e88-e786d32479a8?action=share&source=copy-link&creator=36647287)  
 
-5️⃣ Use-cases, Mind-maps, State Transitions, ets. [read]()  
+5️⃣ Use-cases, Mind-maps, State Transitions, ets. [read](https://drive.google.com/drive/folders/1xZ-xqTlr7N6G8EeZOvinckTE7P7Nwdo2?usp=sharing)  
 
 
 ### How to reach me
