@@ -5,10 +5,10 @@
 🔭![CV](https://docs.google.com/document/d/1gIGALt9zfLahswHB4AAGPmjYUscjd3G548x9ZNSxSao/edit?usp=sharing)
 
 ### Technologies
-REST API
-HTTP
-SQL
-Scrum
+REST API ·
+HTTP ·
+SQL ·
+Scrum ·
 
 
 ### Tools
