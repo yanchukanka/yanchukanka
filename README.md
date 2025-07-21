@@ -62,5 +62,5 @@ Python
 ### 📧 How to reach me
 telegram: https://t.me/yanchukanka  
 e-mail: yanchukanka@gmail.com  
-whatsapp: + 7 950 425-58-18
+whatsapp: + 7 950 425-58-18  
 linkedin: www.linkedin.com/in/anna-pavlova-489657350  
