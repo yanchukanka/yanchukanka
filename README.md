@@ -45,17 +45,17 @@ Github ·
 5️⃣ Use-cases, Mind-maps, State Transitions, ets. [read](https://drive.google.com/drive/folders/1xZ-xqTlr7N6G8EeZOvinckTE7P7Nwdo2?usp=sharing)  
 
 ### Sertificates
-👩‍🎓 [Biginner Tester School, Moskow](https://drive.google.com/file/d/1sSdzIV6MAwawE4oACp_g21EkwsbLe8AX/view?usp=sharing)  
+👩‍🎓 [Beginner Tester School, Moskow](https://drive.google.com/file/d/1sSdzIV6MAwawE4oACp_g21EkwsbLe8AX/view?usp=sharing)  
 👩‍🎓 [Interactive SQL Simulator](https://stepik.org/cert/2888310?lang=en)  
 👩‍🎓 [Software Testing: Postman for API testing](https://stepik.org/cert/2588926?lang=en)  
 👩‍🎓 [Postman-ninja: From scratch to autotests](https://stepik.org/cert/2588306?lang=en)  
-👩‍🎓 [Immersion in JavaScript(for beginners)](https://stepik.org/cert/2754104?lang=en)  
 👩‍🎓 [Python Generation: OOP](https://stepik.org/cert/2848135?lang=en)  
 👩‍🎓 [Python Generation course for beginners](https://stepik.org/cert/2641690?lang=en)  
 👩‍🎓 [Python Generation course for advanced](https://stepik.org/cert/2722768?lang=en)  
 👩‍🎓 [Python Generation course for professionals](https://stepik.org/cert/2789242?lang=en)  
 👩‍🎓 [Selenium Python](https://stepik.org/cert/2900996?lang=en)  
 👩‍🎓 [Indie Python Programming Course](https://stepik.org/cert/2879918?lang=en)  
+👩‍🎓 [Immersion in JavaScript(for beginners)](https://stepik.org/cert/2754104?lang=en)  
 
 
 ### How to reach me
