@@ -10,12 +10,12 @@
 ### Testing documentation
 ⚡ [Check-lists](https://github.com/yanchukanka/check-lists)  
 ⚡ [Test-suits and test-cases](https://github.com/yanchukanka/test-suites-and-cases)  
-⚡ [Bug-reports]
-⚡ [Mind-maps]
-⚡ [SQL Queries]
-⚡ [Postman Collections]
-⚡ [Test kits]
-⚡ [State Transitions]
+⚡ [Bug-reports]  
+⚡ [Mind-maps]  
+⚡ [SQL Queries]  
+⚡ [Postman Collections]  
+⚡ [Test kits]  
+⚡ [State Transitions]  
 ⚡ [Use-cases]
 
 
