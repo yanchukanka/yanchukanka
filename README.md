@@ -8,8 +8,8 @@
 
 
 ### Testing documentation
-⚡ [Check-lists](https://github.com/yanchukanka/check-lists)
-⚡ [Test-suits and test-cases](https://github.com/yanchukanka/test-suites-and-cases)
+⚡ [Check-lists](https://github.com/yanchukanka/check-lists)  
+⚡ [Test-suits and test-cases](https://github.com/yanchukanka/test-suites-and-cases)  
 ⚡ [Bug-reports]
 ⚡ [Mind-maps]
 ⚡ [SQL Queries]
