@@ -22,7 +22,7 @@ Bash Linux ·
 Selenium (начальный уровень) ·
 Confluence ·
 Swagger ·
-OpenAPI·
+OpenAPI ·
 Github ·
 
 ### Languages
