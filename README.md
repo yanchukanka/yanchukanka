@@ -26,18 +26,19 @@ OpenAPI·
 Github ·
 
 ### Languages
-Python
+🐍Python
 
 ### Testing documentation
-⚡ [Check-lists](https://github.com/yanchukanka/check-lists)  
-⚡ Test-suits and test-cases:  
-[Tast-suits in QASE](https://app.qase.io/project/TEST?suite=1)  
-[Test-cases for API](https://docs.google.com/spreadsheets/d/1OHv67l4nuOtl7viPgMwYgsh8qRRuDVWTnDy6M4cMHJI/edit?gid=0#gid=0)  
-⚡ [Bug-reports]()  
-⚡ [Postman Collections]()  
-⚡ [Use-cases, Mind-maps, State Transitions, ets.]()  
+1️⃣ [Check-lists](https://github.com/yanchukanka/check-lists)  
+2️⃣ Test-suits and test-cases:  
+ - [Tast-suits in QASE](https://app.qase.io/project/TEST?suite=1)  
+ - [Test-cases for API](https://docs.google.com/spreadsheets/d/1OHv67l4nuOtl7viPgMwYgsh8qRRuDVWTnDy6M4cMHJI/edit?gid=0#gid=0)  
+3️⃣ [Bug-reports]()  
+4️⃣ [Postman Collections]()  
+5️⃣ [Use-cases, Mind-maps, State Transitions, ets.]()  
 
 
 ### How to reach me
-telegram: @yanchukanka ·
-e-mail: yanchukanka@gmail.com
+telegram: @yanchukanka  
+e-mail: yanchukanka@gmail.com  
+whatsapp: + 7 950 4255818
