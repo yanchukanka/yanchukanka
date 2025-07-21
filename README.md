@@ -2,8 +2,8 @@
 #### I'm junior QA from Tbilisi, Georgia.
 
 ### My CV
-[Read in Russian](https://docs.google.com/document/d/1gIGALt9zfLahswHB4AAGPmjYUscjd3G548x9ZNSxSao/edit?usp=sharing)
-[Read in English]()
+[Read in Russian](https://docs.google.com/document/d/1gIGALt9zfLahswHB4AAGPmjYUscjd3G548x9ZNSxSao/edit?usp=sharing)  
+[Read in English](https://docs.google.com/document/d/1FtaUW5Kqtw7gxQ20Cw2RCJrwqNSsvojSL3qPfadBujU/edit?usp=sharing)
 
 ### Technologies and Tools
 REST API ·
