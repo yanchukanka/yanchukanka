@@ -30,7 +30,9 @@ Python
 
 ### Testing documentation
 ⚡ [Check-lists](https://github.com/yanchukanka/check-lists)  
-⚡ [Test-suits and test-cases](https://github.com/yanchukanka/test-suites-and-cases)  
+⚡ Test-suits and test-cases:  
+![Tast-suits in QASE](https://app.qase.io/project/TEST?suite=1)  
+![Test-cases for API](https://docs.google.com/spreadsheets/d/1OHv67l4nuOtl7viPgMwYgsh8qRRuDVWTnDy6M4cMHJI/edit?gid=0#gid=0)  
 ⚡ [Bug-reports]()  
 ⚡ [Postman Collections]()
 ⚡ [Use-cases, Mind-maps, State Transitions, ets.]()
